@@ -32297,7 +32297,6 @@ video {
 }
 
 .header-btn {
-  margin-left: 0.5rem;
   border-radius: 9999px;
   border-width: 2px;
   --tw-border-opacity: 1;
@@ -32395,6 +32394,14 @@ video {
 
 .footer-item:hover {
   text-decoration: underline;
+}
+
+.home-svg {
+  background-image: url(../scr/svg/home.svg);
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  align-content: center;
 }
 
 @media (min-width: 640px) {
